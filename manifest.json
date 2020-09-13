@@ -1,0 +1,22 @@
+{
+    "name": "askRj",
+    "short_name": "askRj",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#000000",
+    "description": "Ask Rj</> now...",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [{
+            "src": "icons/askRj.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/askRj.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
